@@ -1,13 +1,13 @@
 <h1> Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=40px> </h1>
 <p align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=Systems+Engineering+Student;Backend+Developer;Ruby+on+Rails+Enthusiast;Welcome+to+my+profile">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=Systems+Engineering+Student;Backend+Developer;Python+Enthusiast;Welcome+to+my+profile">
 </p>
 
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 - 🎓 Systems Engineering student at Universidad Tecnológica de Bolívar (Colombia)
 
-- 🌱 Currently learning **Ruby on Rails**
+- 🌱 Currently learning **Python** and **Ruby on Rails**
 
 - 💻 Exploring Backend technologies
 
