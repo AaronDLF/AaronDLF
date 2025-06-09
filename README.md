@@ -15,6 +15,8 @@
 
 - 📫 Contact me at **aaron10lopfortich@gmail.com**
 
+- ✨ My secondary GitHub account: **https://github.com/AaronDaliLF**
+
 ### Connect with me 🔗 :
 <p align='center'>
 <a href="mailto:aarondlf@example.com" target="_blank">
