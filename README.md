@@ -93,7 +93,7 @@
 ## GitHub Statistics 📊
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=AaronDLF&theme=black-ice&hide_border=true" />
+<img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=AaronDLF&show_icons=true&theme=github_dark" />
 </p>
 
 ---
