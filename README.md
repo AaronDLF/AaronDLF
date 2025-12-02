@@ -5,13 +5,13 @@
 
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
-- 🎓 Systems Engineering student at Universidad Tecnológica de Bolívar (Colombia)
+- 🎓 Systems Engineering (Software engineering) student at Universidad Tecnológica de Bolívar (Colombia)
 
 - 🌱 Currently learning **Python** and **Ruby on Rails**
 
 - 💻 Exploring Backend technologies
 
-- 💬 Ask me about **Ruby, RoR, Python, React, TypeScript**
+- 💬 Ask me about **Python, FastAPI, Ruby, RoR, React, TypeScript**
 
 - 📫 Contact me at **aaron10lopfortich@gmail.com**
 
