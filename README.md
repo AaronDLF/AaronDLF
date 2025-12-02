@@ -7,7 +7,7 @@
 
 - 🎓 Systems Engineering (Software engineering) student at Universidad Tecnológica de Bolívar (Colombia)
 
-- 🌱 Currently learning **Python** and **Ruby on Rails**
+- 🌱 Currently learning **Python/FastAPI** and **Ruby on Rails**
 
 - 💻 Exploring Backend technologies
 
