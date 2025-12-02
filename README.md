@@ -65,6 +65,8 @@
 <a href="https://aws.amazon.com/">
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 </a>
+<a href="https://github.com">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"></a>
 <a href="https://vercel.com/">
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
@@ -92,10 +94,6 @@
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=AaronDLF&theme=black-ice&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=AaronDLF&show_icons=true&theme=github_dark" />
 </p>
 
 ---
