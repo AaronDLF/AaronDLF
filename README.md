@@ -7,9 +7,9 @@
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" />
 
 - 🎓 Systems Engineering (Software Engineering) student at Universidad Tecnológica de Bolívar (Colombia)
-- 🌱 Currently learning **Python/FastAPI**, **C++ for Machine Learning**, **React Native**, and cloud technologies (**Azure / AWS**)
+- 🌱 Currently learning **Python/FastAPI**, **C++ for Machine Learning**, and cloud technologies (**Azure / AWS**)
 - 💻 Exploring Backend technologies and performance-critical systems
-- 💬 Ask me about **Python, FastAPI, Ruby, Rails, React, TypeScript**
+- 💬 Ask me about **Python, FastAPI, Ruby, Rails**
 - 📫 Contact me: **aaron10lopfortich@gmail.com**
 - ✨ Secondary GitHub account: **https://github.com/AaronDaliLF**
 
@@ -39,9 +39,6 @@
 </a>
 <a href="https://www.python.org/">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-</a>
-<a href="https://scikit-learn.org/">
-  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
 </a>
 <a href="https://numpy.org/">
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
