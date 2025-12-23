@@ -104,4 +104,27 @@
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </a>
 <a href="https://www.sqlite.org/">
-  <img alt="SQLite" src="ht
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+</a>
+<a href="https://git-scm.com/">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</a>
+<a href="https://github.com/">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+---
+
+## GitHub Statistics 📊
+
+<p align="center">
+<img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=AaronDLF&show_icons=true&theme=github_dark" />
+</p>
+
+---
+
+## Most Used Languages 📚
+
+<p align="center">
+<img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=AaronDLF&theme=dark&hide_border=true&langs_count=10" />
+</p>
