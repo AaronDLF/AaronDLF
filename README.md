@@ -1,7 +1,7 @@
 <h1> Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> </h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=450&height=75&lines=Software+Engineering+Student;Backend+Developer;Python+%2F+FastAPI;C%2B%2B+for+Machine+Learning;Welcome+to+my+profile" />
+<img src="https://readme-typing-svg.demolab.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=450&height=75&lines=Software+Engineering+Student;Backend+Developer;Python+%2F+FastAPI;Learning+C+for+fun;Welcome+to+my+profile" />
 </p>
 
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" />
