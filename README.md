@@ -4,8 +4,6 @@
 <img src="https://readme-typing-svg.demolab.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=450&height=75&lines=Software+Engineering+Student;Backend+Developer;Python+%2F+FastAPI;Learning+C+for+fun;Welcome+to+my+profile" />
 </p>
 
-<img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" />
-
 - 🎓 Systems Engineering (Software Engineering) student at Universidad Tecnológica de Bolívar (Colombia)
 - 🌱 Currently learning **Python/FastAPI**, **C++ for Machine Learning**, and cloud technologies (**Azure / AWS**)
 - 💻 Exploring Backend technologies and performance-critical systems
