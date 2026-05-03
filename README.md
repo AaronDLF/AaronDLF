@@ -1,13 +1,12 @@
 <h1> Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> </h1>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=450&height=75&lines=Software+Engineering+Student;Backend+Developer;Python+%2F+FastAPI;Learning+C+for+fun;Welcome+to+my+profile" />
-</p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=450&height=75&lines=Software+Engineering+Student;Backend+Developer;Python+%2F+FastAPI;Learning+C+for+fun;Welcome+to+my+profile" /> </p>
 
 - 🎓 Systems Engineering (Software Engineering) student at Universidad Tecnológica de Bolívar (Colombia)
-- 🌱 Currently learning **Python/FastAPI**, **C++ for Machine Learning**, and cloud technologies (**Azure / AWS**)
-- 💻 Exploring Backend technologies and performance-critical systems
-- 💬 Ask me about **Python, FastAPI, Ruby, Rails**
+- 🌱 Currently focused on **Python**, **Django Rest Framework**, **PyTorch**, and studying **Transformer architectures** (Attention Is All You Need)
+- 🤖 Working with **computer vision models (.pt)** and deep learning projects
+- 💻 Exploring Backend systems and AI model architectures
+- 💬 Ask me about **Python, FastAPI, PyTorch, Ruby, Rails**
 - 📫 Contact me: **aaron10lopfortich@gmail.com**
 - ✨ Secondary GitHub account: **https://github.com/AaronDaliLF**
 
@@ -32,17 +31,14 @@
 ## Technologies and Tools 🚀
 
 ### Artificial Intelligence & Machine Learning
-<a href="https://isocpp.org/">
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-</a>
 <a href="https://www.python.org/">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </a>
-<a href="https://numpy.org/">
-  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+<a href="https://pytorch.org/">
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
 </a>
 
-> Learning C++ for performance-critical Machine Learning systems, model optimization, and low-level data processing.
+> Experience working with computer vision models (.pt) and currently studying transformer architectures and deep learning fundamentals based on the paper *"Attention Is All You Need"*.
 
 ---
 
