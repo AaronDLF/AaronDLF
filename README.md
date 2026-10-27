@@ -8,7 +8,7 @@
 - 🏛️ Data & Analytics intern at Colombia's **Procuraduría General de la Nación**, building an unsupervised NLP pipeline (TF-IDF + hierarchical clustering) that organizes news articles into clusters and higher-level macro-groups
 - 🥈 **2nd place worldwide** with team **VerbaNexAI** at **[MSLG-SPA 2026](https://github.com/MelanySaez/mslg-spa-2026)** (IberLEF 2026), a shared task on machine translation between Mexican Sign Language glosses and Spanish
 - 📄 Co-author of a paper published in **CEUR Workshop Proceedings** (IberLEF 2026) on in-context learning for low-resource sign language translation
-- 🥉 **3rd place, Best Use of Data** at **NASA Space Apps Challenge 2025** (Barranquilla, Colombia) with **[EnergySpace](https://github.com/AaronDLF/nasa-space-apps-challenge-EnergySpace)**
+- 🥉 **3rd place, Best Use of Data** at **NASA Space Apps Challenge 2025** (Barranquilla, Colombia) with team **VerbaNexAI**, for our tool **[EnergySpace](https://github.com/AaronDLF/nasa-space-apps-challenge-EnergySpace)**
 - 🚢 Co-developing **[Nautic](https://github.com/MelanySaez/Nautic)**, an AI system that detects and classifies anomalies in ship hulls using computer vision (YOLO, RT-DETR, Mask R-CNN)
 - 🌍 Hackathon builder: **NASA Space Apps** (EnergySpace) and **CoAfina** (E-Waste 360°)
 - 🧠 Implementing **ML algorithms from scratch in C** and studying **Transformer architectures** (*Attention Is All You Need*)
@@ -40,7 +40,7 @@
 ## Achievements 🏆
 
 - 🥈 **MSLG-SPA 2026 @ IberLEF 2026 — 2nd place, Global Ranking** (team VerbaNexAI). Global score **1.2403**, averaged over both translation directions (MSLG→SPA and SPA→MSLG). [See results](https://sites.google.com/cicese.edu.mx/mslg-spa2026/results)
-- 🥉 **NASA Space Apps Challenge 2025 — 3rd place, Best Use of Data** (Barranquilla, Colombia local event). Team project **[EnergySpace](https://github.com/AaronDLF/nasa-space-apps-challenge-EnergySpace)**: an interactive world map of power plants with an AI module that predicts viable energy sources.
+- 🥉 **NASA Space Apps Challenge 2025 — 3rd place, Best Use of Data** (Barranquilla, Colombia local event), team **VerbaNexAI**. Tool built for the challenge: **[EnergySpace](https://github.com/AaronDLF/nasa-space-apps-challenge-EnergySpace)**: an interactive world map of power plants with an AI module that predicts viable energy sources.
 
 ---
 
@@ -58,7 +58,7 @@
 | Project | Description | Stack |
 |---|---|---|
 | 🤟 [MSLG-SPA 2026](https://github.com/MelanySaez/mslg-spa-2026) | 🥈 2nd place globally + published paper. Bidirectional translation between Mexican Sign Language glosses and Spanish using retrieval-augmented few-shot and many-shot in-context learning | Python · LLMs · RAG · Sentence-Transformers |
-| 🌍 [EnergySpace](https://github.com/AaronDLF/nasa-space-apps-challenge-EnergySpace) | 🥉 3rd place, Best Use of Data (NASA Space Apps 2025, Barranquilla). Interactive world map of power plants with an AI module that predicts viable energy sources | Python · Jupyter · ML |
+| 🌍 [EnergySpace](https://github.com/AaronDLF/nasa-space-apps-challenge-EnergySpace) | 🥉 3rd place, Best Use of Data with team VerbaNexAI (NASA Space Apps 2025, Barranquilla). Interactive world map of power plants with an AI module that predicts viable energy sources | Python · Jupyter · ML |
 | 🚢 [Nautic](https://github.com/MelanySaez/Nautic) | AI-assisted detection and classification of anomalies in ship hulls | Computer Vision · YOLO · RT-DETR · Mask R-CNN |
 | ♻️ [CoAfina](https://github.com/MelanySaez/CoAfina) | E-Waste 360° hackathon project | TypeScript |
 | 🧠 [machine-learning-algorithms](https://github.com/AaronDLF/machine-learning-algorithms) | Machine learning algorithms implemented from scratch | C |
